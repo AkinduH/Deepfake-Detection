@@ -9,3 +9,9 @@ Combining EfficientNet and Vision Transformers for Video Deepfake Detection - ht
 SQUEEZENET - https://arxiv.org/pdf/1602.07360
 
 Deep Residual Learning for Image Recognition (ResNet) - https://arxiv.org/pdf/1512.03385
+
+ConvNet - https://arxiv.org/pdf/2201.03545
+
+Swin Transformer - https://arxiv.org/pdf/2103.14030
+
+Meta DINOv3 - https://arxiv.org/pdf/2508.10104 
