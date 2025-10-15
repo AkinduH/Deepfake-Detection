@@ -15,3 +15,5 @@ ConvNet - https://arxiv.org/pdf/2201.03545
 Swin Transformer - https://arxiv.org/pdf/2103.14030
 
 Meta DINOv3 - https://arxiv.org/pdf/2508.10104 
+
+Data Filtering Networks - https://arxiv.org/pdf/2309.17425
